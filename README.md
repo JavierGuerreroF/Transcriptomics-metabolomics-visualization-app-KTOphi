@@ -14,7 +14,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/JavierGuerreroF/Transcriptomics-metabolomics-visualization-app-KTOphi">
+  <a href="https://github.com/JavierGuerreroF/Transcriptomics-metabolomics-visualization-app-KTOphi" target="_blank"">
     <img src="images/logo.png" alt="Visualization app" width="80" height="80">
   </a>
 
