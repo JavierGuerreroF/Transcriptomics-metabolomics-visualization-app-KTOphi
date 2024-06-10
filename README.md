@@ -49,7 +49,7 @@ You can acces throught the [shinyapp link here](https://jgf-bioinformatics.shiny
 ### 1. Volcano Plots Tab
 
 ### Screenshot:
-![Volcano Plots Tab Screenshot](https://github.com/JavierGuerreroF/Transcriptomics-metabolomics-visualization-app-KTOphi/tree/main/images/volcano_plots.png?raw=true)
+![Volcano Plots Tab Screenshot](https://github.com/JavierGuerreroF/Transcriptomics-metabolomics-visualization-app-KTOphi/blob/main/images/volcano_plots.png?raw=true)
 
 ### Description:
 
@@ -66,7 +66,7 @@ This tab allows you to visualize differential expression analysis results throug
 
 ### Screenshot:
 
-![Gene Search Tab Screenshot](https://github.com/[username]/[reponame]/blob/[branch]/gene_search.png?raw=true)
+![Gene Search Tab Screenshot](https://github.com/JavierGuerreroF/Transcriptomics-metabolomics-visualization-app-KTOphi/blob/main/gene_search.png?raw=true)
 
 ### Description:
 
@@ -83,7 +83,7 @@ This tab allows you to visualize differential expression analysis results throug
 
 ### Screenshot:
 
-![Metabolomics Tab Screenshot](https://github.com/[username]/[reponame]/blob/[branch]/metabolomics.png?raw=true)
+![Metabolomics Tab Screenshot](https://github.com/JavierGuerreroF/Transcriptomics-metabolomics-visualization-app-KTOphi/blob/main/metabolomics.png?raw=true)
 
 ### Description:
 
