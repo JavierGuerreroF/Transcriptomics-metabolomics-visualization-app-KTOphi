@@ -23,7 +23,7 @@
   <p align="center">
     Visualization app developed in R using the Shiny package. The objective is to get an easy access to the <b><i>"Synthetic interkingdom microbial consortia supported by quorum signalling for bioplastic production from agro-industrial waste"</i></b> data in an interactive way.
     <br />
-    <a href="https://jgf-bioinformatics.shinyapps.io/Visualization_app/"><strong>Explore the app »</strong></a>
+    <a href="https://jgf-bioinformatics.shinyapps.io/Visualization_app/" target="_blank"><strong>Explore the app »</strong></a>
     <br />
     <br /> <a href="https://github.com/JavierGuerreroF/Transcriptomics-metabolomics-visualization-app-KTOphi/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
