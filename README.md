@@ -66,7 +66,7 @@ This tab allows you to visualize differential expression analysis results throug
 
 ### Screenshot:
 
-![Gene Search Tab Screenshot](https://github.com/JavierGuerreroF/Transcriptomics-metabolomics-visualization-app-KTOphi/blob/main/gene_search.png?raw=true)
+![Gene Search Tab Screenshot](https://github.com/JavierGuerreroF/Transcriptomics-metabolomics-visualization-app-KTOphi/blob/main/images/gene_search.png?raw=true)
 
 ### Description:
 
@@ -83,7 +83,7 @@ This tab allows you to visualize differential expression analysis results throug
 
 ### Screenshot:
 
-![Metabolomics Tab Screenshot](https://github.com/JavierGuerreroF/Transcriptomics-metabolomics-visualization-app-KTOphi/blob/main/metabolomics.png?raw=true)
+![Metabolomics Tab Screenshot](https://github.com/JavierGuerreroF/Transcriptomics-metabolomics-visualization-app-KTOphi/blob/main/images/metabolomics.png?raw=true)
 
 ### Description:
 
